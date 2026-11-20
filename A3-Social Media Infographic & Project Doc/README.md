@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=ACTIVITY%203&fontSize=52&fontColor=fff8ec&animation=fadeIn&desc=Social%20Media%20Infographic%20%26%20Project%20Doc&descSize=20&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=ACTIVITY%203&fontSize=52&fontColor=fff8ec&animation=fadeIn&desc=Social%20Media%20Infographic%20and%20Project%20Doc&descSize=20&descAlignY=72" width="100%"/>
 
 # 🧠 Bridging the Mental Health Access Gap Among Filipino Youth
 
