@@ -9,7 +9,7 @@
 
 ### 🩺 Nursing Student • Creative Learner • Digital Explorer
 
-<img src="assets/profile.jpg" width="165" alt="Julio's Profile Photo"/>
+<img src="Assets/profile.jpeg" width="165" alt="Julio's Profile Photo"/>
 
 **4th Year BS Nursing Student**  
 Ateneo de Davao University
