@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9FF,50:92FE9D,100:FC466B&height=180&section=header&text=GE%204120%20-%2021st%20Century%20IT%20Skills&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=45&stroke=ffffff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:FC466B&height=200&section=header&text=GE%204120%20-%2021st%20Century%20IT%20Skills&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20Beyond%20the%20Classroom&descSize=16&descAlignY=58" width="100%"/>
 
 </div>
 
