@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17&height=200&section=header&text=ACTIVITY%205&fontSize=52&fontColor=fff8ec&animation=fadeIn&desc=AI%20Tools%20Activity&descSize=20&descAlignY=72" width="100%"/>
 
-# 🤖 AI Tools: ChatGPT vs. Claude
+# 🤖 AI Tools: ChatGPT vs. Claude 
 
 ![Course](https://img.shields.io/badge/GE%204120-21st%20Century%20IT%20Skills-1b998b?style=for-the-badge)
 ![Tool](https://img.shields.io/badge/Tools-ChatGPT%20%7C%20Claude-e84855?style=for-the-badge)
