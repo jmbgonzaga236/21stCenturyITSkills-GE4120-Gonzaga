@@ -1,80 +1,82 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║                    GE 4120 • PORTFOLIO                      ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3047,50:1b9998,100:fde7c9&height=200&section=header&text=21st%20Century%20IT%20Skills&fontSize=40&fontColor=fff8ec&fontAlignY=38&animation=fadeIn" />
-</p>
-
-<h1 align="center">GE 4120 — 21st Century IT Skills</h1>
 
 <div align="center">
-  <h3>Nursing & Healthcare Portfolio: Julio Miguel B. Gonzaga</h3>
-  <p><i>Bridging healthcare, visual design, and digital health innovation</i></p>
+
+# Hello, I'm Julio Miguel Gonzaga! 👋
+
+### 🩺 Nursing Student | Lifelong Learner | Creative Explorer
+
+<img src="assets/profile.jpg" alt="My Profile Photo" width="180" style="border-radius: 50%;">
+
+**Bachelor of Science in Nursing**  
+4th Year Student  
+**Ateneo de Davao University**
+
+*"Learning beyond the classroom, one skill at a time."*
+
+<br>
+
+![Nursing](https://img.shields.io/badge/Field-Nursing-1976D2?style=for-the-badge)
+![Student](https://img.shields.io/badge/Year-4th%20Year-1565C0?style=for-the-badge)
+![Electives](https://img.shields.io/badge/Electives-Portfolio-00897B?style=for-the-badge)
+
 </div>
 
 ---
 
-Welcome to my portfolio repository! I am a BS-Nursing student at Ateneo de Davao University, and this space showcases my recent activities and projects.
+## 👨‍⚕️ About Me
 
+Hi! I'm Julio, a fourth-year Bachelor of Science in Nursing student from Ateneo de Davao University.
 
+Beyond nursing and medicine, I enjoy exploring different interests that allow me to be creative, curious, and continuously learn new things.
 
----
-## 📚 Electives Presentation: Google Slides
+When I'm not studying, you can usually find me:
 
-A presentation by **BSN 4-F, Group 2** for the September 2026 midterm period, covering Google Slides, its features, practical applications, and an interactive quiz.
+- 🍳 Experimenting with recipes and cooking.
+- 🎌 Watching anime.
+- 📚 Reading books.
+- 🩺 Exploring topics related to nursing and medicine.
 
-Open the file attached above in the repository to access the presentation.
-
-<img width="492" height="285" alt="image" src="https://github.com/user-attachments/assets/9368a4f1-c090-40f7-9719-94670944c42d" />
-
----
-
-## ☕ Project 1: University Event Promotion
-
-### What is this project?
-This is a promotional poster designed for a community-building event at the Ateneo de Davao University, School of Nursing. 
-
-### Project Highlights:
-* **Goal:** To create a welcoming, visually appealing invitation for a "Free Coffee!" event designed to spread good vibes and caffeine.
-* **Design Choices:** I utilized hand-drawn, watercolor-style illustrations of coffee and pastries to create a warm, approachable, and relaxing aesthetic. 
-* **Details:** The event was scheduled for Tuesday, August 4, 2026, at Booth 7.
-
-* <img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120_GONZAGA (1)" src="https://github.com/user-attachments/assets/1f9c4a30-db4b-4189-a9be-4d718fd14aa5" />
-
+I believe that learning new skills outside my field of study helps me become a more versatile and well-rounded individual.
 
 ---
 
-## 🩺 Project 2: "HeartFirst" Brand Identity & Professional Collateral
+## 💻 Skills & Things I've Learned
 
-### What is this project?
-This project establishes the brand identity and professional business collateral for "HeartFirst," a primary care provider practice based in Davao City.
+Through my Electives course, I've explored different digital tools and developed skills that I can apply both academically and professionally.
 
-### Project Highlights:
-* **The Goal:** To design a trustworthy, professional, and modern visual identity for my future practice as a Registered Nurse.
-* **Color Palette & Typography:** 
-  * I selected a palette balancing professional trust and warmth: Midnight Navy (60%), Cool Teal (25%), Vital Red (10%), Coral Red, and Warm Ivory (5%). 
-  * For typography, I paired Montserrat (a clean, authoritative display font) with Arvo (a highly readable body font).
-* **Business Card:** The final output applies these brand rules to a clean, highly legible business card featuring the HeartFirst logo, my professional credentials, and essential contact information.
+<div align="center">
 
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/c70fd3bd-34ac-4c45-b5d5-0b34cfddfb27" />
+| 🎯 Activity | 💡 Skills Developed |
+|:---|:---|
+| **A1 - Presentation Design Principles** | Creating organized, engaging, and visually appealing presentations |
+| **A2 - Personal Branding** | Developing a professional identity and online presence |
+| **A3 - Social Media Infographic & Project Documentation** | Visual communication, infographic design, and documentation |
+| **A4 - Google Workspace Group Reporting** | Digital collaboration, document management, and group reporting |
+| **A5 - AI Tools Activity** | Exploring AI tools for productivity, research, and academic tasks |
+| **A6 - Website Making** | Understanding website creation and basic web publishing |
+| **A7 - Resume Making** | Creating professional resumes and exploring AI-assisted job applications |
 
+</div>
 
 ---
 
-## 🧠 Project 3: Digital Mental Health Support Platform Proposal
+## 🌱 My Learning Journey
 
-### What is this project?
-This is a comprehensive proposal and accompanying infographic addressing the youth mental health crisis in the Philippines through digital innovation. 
+This repository serves as a collection of my outputs, activities, and learning experiences throughout my Electives course.
 
-### Project Highlights:
-* **The Problem:** Filipino youth experience significant mental health concerns but face major barriers to obtaining support, including a severe shortage of specialized mental health professionals and facilities for adolescents. Additionally, financial constraints and stigma prevent many from seeking help.
-* **The Solution:** I proposed a Digital Mental Health Support Platform designed specifically for Filipino students. 
-* **Key Features:** The platform would provide confidential access to evidence-based information, self-screening tools, and a directory to connect students with available counselors and psychiatrists based on their needs and location.
-* **Infographic:** A visual summary of the barriers (silent struggles, high suicide consideration rates, inaccessibility, and out-of-pocket expenses) and the proposed E-Mental Health Platform solution.
-* **Documentation:** The full academic paper detailing the problem description, statistics from the World Health Organization, and the complete project proposal.
+Each activity represents an opportunity to develop skills beyond my nursing education, particularly in digital literacy, creativity, communication, and technology.
 
-<img width="800" height="2000" alt="Infographic_GONZAGA" src="https://github.com/user-attachments/assets/3a063178-9489-4502-be13-ea7ccf1fb549" />
+I look forward to applying these skills in my future career as a healthcare professional.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my repository! 💙
+
+*Keep learning. Keep growing. Keep exploring.*
+
+![Visitors](https://img.shields.io/badge/Status-Always%20Learning-success?style=flat-square)
+
+</div>
 
