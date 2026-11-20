@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9FF,50:92FE9D,100:FC466B&height=260&section=header&text=GE%204120&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=21st%20Century%20IT%20Skills%20%E2%80%A2%20Learning%20Beyond%20the%20Classroom&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:FC466B&height=240&section=header&text=GE%204120%20-%2021st%20Century%20IT%20Skills&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20Beyond%20the%20Classroom&descSize=18&descAlignY=60" width="100%"/>
 
 <img src="Assets/profile.jpeg" width="170" alt="Julio's Profile Photo" style="border-radius:50%"/>
 
