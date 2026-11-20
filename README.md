@@ -40,7 +40,7 @@ A few things I enjoy:
 
 ### 🛠️ Things I've Explored
 
-My GE 4120 journey has introduced me to different digital skills and tools. Here's a little look at what I've worked on!
+My GE 4120 journey has introduced me to different digital skills and tools. <b> Throughout the semester, I was able to learn a lot of skills that I can apply to my life as a student, such as using Google Workspace efficiently, highlighting Canva as a way to design for my projects, and maximizing the use of AI tools such as ChatGPT and Claude. </b> Here's a little look at what I've worked on!
 
 <table>
 <tr>
