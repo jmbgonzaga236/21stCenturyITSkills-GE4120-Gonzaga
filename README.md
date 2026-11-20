@@ -1,87 +1,144 @@
 
 <div align="center">
 
-# Hello, I'm Julio Miguel Gonzaga! 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9FF,50:92FE9D,100:FC466B&height=180&section=header&text=GE%204120%20-%2021st%20Century%20IT%20Skills&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=45&stroke=ffffff&strokeWidth=1" width="100%"/>
 
-### 🩺 Nursing Student | Lifelong Learner | Creative Explorer
+# Hey there! I'm Julio Miguel 👋
 
-<img src="assets/profile.jpg" alt="My Profile Photo" width="18<img width="2320" height="3088" alt="Gonzaga_Selfie" src="https://github.com/user-attachments/assets/4ae2c597-4491-4c38-a912-2d970e5d6f5e" />
-0" style="border-radius: 50%;">
-![Uploading Gonzaga_Selfie.jpeg…]()
+### 🩺 Nursing Student • Creative Learner • Digital Explorer
 
+<img src="assets/profile.jpg" width="165" alt="Julio's Profile Photo"/>
 
-**Bachelor of Science in Nursing**  
-4th Year Student  
-**Ateneo de Davao University**
+**4th Year BS Nursing Student**  
+Ateneo de Davao University
 
-
-
-*"Learning beyond the classroom, one skill at a time."*
-
-<br>
-
-![Nursing](https://img.shields.io/badge/Field-Nursing-1976D2?style=for-the-badge)
-![Student](https://img.shields.io/badge/Year-4th%20Year-1565C0?style=for-the-badge)
-![Electives](https://img.shields.io/badge/Electives-Portfolio-00897B?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Explore-FF6B81?style=for-the-badge)](.)
 
 </div>
 
 ---
 
-## 👨‍⚕️ About Me
+### 🌈 A Little About Me
 
-Hi! I'm Julio, a fourth-year Bachelor of Science in Nursing student from Ateneo de Davao University.
+Hello! I'm Julio, a fourth-year nursing student who's always curious about learning new things, whether inside or outside the hospital.
 
-Beyond nursing and medicine, I enjoy exploring different interests that allow me to be creative, curious, and continuously learn new things.
+While most of my academic journey revolves around nursing and medicine, I also enjoy exploring creative hobbies and discovering how technology can make everyday tasks easier.
 
-When I'm not studying, you can usually find me:
+A few things I enjoy:
 
-- 🍳 Experimenting with recipes and cooking.
-- 🎌 Watching anime.
-- 📚 Reading books.
-- 🩺 Exploring topics related to nursing and medicine.
+- 🍳 Cooking and trying out new recipes
+- 🎌 Watching anime
+- 📚 Reading books
+- 🩺 Learning about nursing and medicine
+- 💻 Exploring digital tools and technology
 
-I believe that learning new skills outside my field of study helps me become a more versatile and well-rounded individual.
+> "You don't have to be an expert to start learning something new!"
 
 ---
 
-## 💻 Skills & Things I've Learned
+### 🛠️ Things I've Explored
 
-Through my Electives course, I've explored different digital tools and developed skills that I can apply both academically and professionally.
+My GE 4120 journey has introduced me to different digital skills and tools. Here's a little look at what I've worked on!
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>🎨 A1 | Presentation Design</h3>
+Learning how to create visually engaging and organized presentations.
+
+</td>
+<td width="50%">
+
+<h3>✨ A2 | Personal Branding</h3>
+Discovering how to build a personal identity and professional online presence.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3>📱 A3 | Infographics & Documentation</h3>
+Turning information into creative visual content and organized project documents.
+
+</td>
+<td width="50%">
+
+<h3>🤝 A4 | Google Workspace</h3>
+Collaborating, sharing files, and working on group reports using digital tools.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3>🤖 A5 | AI Tools</h3>
+Exploring how artificial intelligence can assist with productivity and academic work.
+
+</td>
+<td width="50%">
+
+<h3>🌐 A6 | Website Making</h3>
+Getting introduced to website creation and the basics of publishing online.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3>📄 A7 | Resume Making</h3>
+Creating professional resumes and exploring AI-assisted job application tools.
+
+</td>
+<td width="50%">
+
+<h3>🚀 What's Next?</h3>
+Continuing to discover new tools, develop my skills, and learn beyond the classroom!
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💡 My Digital Toolkit
+
+Some of the areas I've had the opportunity to explore:
+
+<p align="center">
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Presentation%20Design-FF6B81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Infographic%20Design-FFB347?style=flat-square"/>
+<img src="https://img.shields.io/badge/Personal%20Branding-20B2AA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Website%20Creation-4169E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Resume%20Building-9370DB?style=flat-square"/>
+</p>
+
+---
+
+### 📂 Explore My Activities
+
+Want to see what I've been working on? Check out the folders in this repository!
+
+| Folder | Activity |
+|:--|:--|
+| 📁 A1 | Presentation Design Principles |
+| 📁 A2 | Personal Branding |
+| 📁 A3 | Social Media Infographic & Project Doc |
+| 📁 A4 | Google Workspace Group Reporting |
+| 📁 A5 | AI Tools Activity |
+| 📁 A6 | Website Making |
+| 📁 A7 | Resume Making |
+
+---
 
 <div align="center">
 
-| 🎯 Activity | 💡 Skills Developed |
-|:---|:---|
-| **A1 - Presentation Design Principles** | Creating organized, engaging, and visually appealing presentations |
-| **A2 - Personal Branding** | Developing a professional identity and online presence |
-| **A3 - Social Media Infographic & Project Documentation** | Visual communication, infographic design, and documentation |
-| **A4 - Google Workspace Group Reporting** | Digital collaboration, document management, and group reporting |
-| **A5 - AI Tools Activity** | Exploring AI tools for productivity, research, and academic tasks |
-| **A6 - Website Making** | Understanding website creation and basic web publishing |
-| **A7 - Resume Making** | Creating professional resumes and exploring AI-assisted job applications |
+### 💙 Thanks for stopping by!
+
+*Still learning, still growing, and always curious.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
-
----
-
-## 🌱 My Learning Journey
-
-This repository serves as a collection of my outputs, activities, and learning experiences throughout my Electives course.
-
-Each activity represents an opportunity to develop skills beyond my nursing education, particularly in digital literacy, creativity, communication, and technology.
-
-I look forward to applying these skills in my future career as a healthcare professional.
-
----
-
-<div align="center">
-
-### Thanks for visiting my repository! 💙
-
-*Keep learning. Keep growing. Keep exploring.*
-
-![Visitors](https://img.shields.io/badge/Status-Always%20Learning-success?style=flat-square)
-
-</div>
-
