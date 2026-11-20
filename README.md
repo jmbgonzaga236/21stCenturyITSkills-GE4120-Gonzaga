@@ -5,7 +5,8 @@
 
 ### 🩺 Nursing Student | Lifelong Learner | Creative Explorer
 
-<img src="assets/profile.jpg" alt="My Profile Photo" width="180" style="border-radius: 50%;">
+<img src="assets/profile.jpg" alt="My Profile Photo" width="18![Uploading Gonzaga_Selfie.jpeg…]()
+0" style="border-radius: 50%;">
 
 **Bachelor of Science in Nursing**  
 4th Year Student  
