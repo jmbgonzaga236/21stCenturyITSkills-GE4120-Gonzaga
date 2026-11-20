@@ -5,12 +5,16 @@
 
 ### 🩺 Nursing Student | Lifelong Learner | Creative Explorer
 
-<img src="assets/profile.jpg" alt="My Profile Photo" width="18![Uploading Gonzaga_Selfie.jpeg…]()
+<img src="assets/profile.jpg" alt="My Profile Photo" width="18<img width="2320" height="3088" alt="Gonzaga_Selfie" src="https://github.com/user-attachments/assets/4ae2c597-4491-4c38-a912-2d970e5d6f5e" />
 0" style="border-radius: 50%;">
+![Uploading Gonzaga_Selfie.jpeg…]()
+
 
 **Bachelor of Science in Nursing**  
 4th Year Student  
 **Ateneo de Davao University**
+
+
 
 *"Learning beyond the classroom, one skill at a time."*
 
